@@ -1,0 +1,2 @@
+# atmostory
+inkでノベルゲームを作ろう
